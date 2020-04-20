@@ -1,22 +1,9 @@
-<h3 align="center"> Quarantine Creativity is an open, collective art exhibition during the Coronavirus pandemic.</h3>
+# Quarantine Creativity
 
-<a href="https://fb.me/quarantinecreativity"><img height="48" width="48" src="https://unpkg.com/simple-icons@latest/icons/facebook.svg" /></a>
+Git repo for Jekyll website based on [Duo](https://github.com/chibicode/duo).
 
-## Why
+## About
 
-Many people are stuck at home and that's hard. You have to keep busy so why not be creative. Create something and show others together online.
+Quarantine Creatitivy is an open, collective art exibition. This websites purpose is to reference social media page and as an archive gallery for submissions.
 
-## What Do I Make
-
-Whatever you want! Like the <a href="https://fb.me/quarantinecreativity">Facebook page</a>, post what you've created and share it with others.
-
-It just has to be:
-
-- An expression of creativity. Including visual, writing, performance or a combination of these.
-- Your own work.
-
-## Who Is It For
-
-Absolutely everyone!
-
-Visit the Facebook page <a href="https://fb.me/quarantinecreativity">here</a>.
+Social media is leveraged for media submission.
