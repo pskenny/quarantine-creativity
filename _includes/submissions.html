@@ -11,7 +11,7 @@
 <ul>
     {% for post in site.posts %}
         <li>
-            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.emoji }} {{ post.title }}</a>
+            <a href="{{ post.url | relative_url }}">{{ post.emoji }} {{ post.title }}</a>
         </li>
     {% endfor %}
   </ul>
