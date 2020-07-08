@@ -38,6 +38,9 @@ num_posts_visible_initially: 5
 date_format: "%b %-d, %Y"
 # ----------------------------------------------------------------------------
 
+include:
+  - /assets/
+
 exclude:
   - Gemfile
   - Gemfile.lock
