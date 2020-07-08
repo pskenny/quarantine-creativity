@@ -4,8 +4,8 @@ title:  "Paintings"
 emoji: "🖼️"
 ---
 
-![painting]({{site.home}}/assets/img/1-paintings.jpg)
+![painting]({{ "/assets/img/1-paintings.jpg" | relative_url }})
 
-![painting]({{site.home}}/assets/img/2-paintings.jpg)
+![painting]({{ "/assets/img/2-paintings.jpg" | relative_url }})
 
 Paintings by Amy.

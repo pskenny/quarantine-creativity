@@ -4,6 +4,6 @@ title:  "Untitled 1"
 emoji: "🖼️"
 ---
 
-![painting]({{site.home}}/assets/img/untitled-1.jpg)
+![painting]({{ "/assets/img/untitled-1.jpg" | relative_url }})
 
 Untitled 1 by Anonymous.

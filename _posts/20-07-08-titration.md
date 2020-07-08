@@ -4,6 +4,6 @@ title:  "Titration"
 emoji: "🖼️"
 ---
 
-![Titration painting]({{site.home}}/assets/img/titration.jpg)
+![Titration painting]({{ "/assets/img/titration.jpg" | relative_url }})
 
 Titration by Anonymous.

@@ -4,6 +4,6 @@ title:  "Smoke Eye"
 emoji: "🖼️"
 ---
 
-![smoke eye image]({{site.home}}/assets/img/smoke-eye.png)
+![smoke eye image]({{ "/assets/img/smoke-eye.png" | relative_url }})
 
 Smoke Eye by Paul Kenny.
