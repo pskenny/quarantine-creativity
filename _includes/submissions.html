@@ -1,0 +1,17 @@
+<h2>Submissions</h2>
+
+🖼️ picture
+<br/>
+🖊️ writing
+<br/>
+🎵 music
+<br/>
+🎥 video
+
+<ul>
+    {% for post in site.posts %}
+        <li>
+            <a href="{{ post.url }}">{{ post.emoji }} {{ post.title }}</a>
+        </li>
+    {% endfor %}
+  </ul>
